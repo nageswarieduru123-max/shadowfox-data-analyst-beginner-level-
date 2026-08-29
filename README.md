@@ -78,4 +78,4 @@ The analysis helps identify:
 ✅ Business insights generated
 ## 📊 Dashboard
 
-![ShadowFox Sales Dashboard](dashboard.png)
+![ShadowFox Sales Dashboard](dashboard.png.jpg)
