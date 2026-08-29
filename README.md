@@ -76,3 +76,6 @@ The analysis helps identify:
 ✅ Data analysis completed  
 ✅ Dashboard created  
 ✅ Business insights generated
+## 📊 Dashboard
+
+![ShadowFox Sales Dashboard](dashboard.png)
